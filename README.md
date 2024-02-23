@@ -1,0 +1,5 @@
+![СнимокUnit1](https://github.com/Ziklson/AndroidMarathon-CreateFirstApp/assets/96010534/22d2c81d-c7e4-46e5-a5f7-311e8c25a652)
+![СкринХБ2](https://github.com/Ziklson/AndroidMarathon-CreateFirstApp/assets/96010534/0f687566-605a-47d4-ad0f-db48f6033c3f)
+![СнимокUnit1](https://github.com/Ziklson/AndroidMarathon-CreateFirstApp/assets/96010534/95e12838-c077-468e-a441-825ed5af136a)
+![СнимокБизнесКард](https://github.com/Ziklson/AndroidMarathon-CreateFirstApp/assets/96010534/29848692-83e6-46ca-b55e-885807f57803)
+![СнимокБизнесКард2](https://github.com/Ziklson/AndroidMarathon-CreateFirstApp/assets/96010534/a03eda22-c8e7-4081-97f1-32ce1617f5e0)
